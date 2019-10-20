@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1072640496375",
+    "firebase_url": "https://landbank-1551316152620.firebaseio.com",
+    "project_id": "landbank-1551316152620",
+    "storage_bucket": "landbank-1551316152620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072640496375:android:be46833eab5ca4ce",
+        "android_client_info": {
+          "package_name": "com.all4it.landbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072640496375-k1gkm8gm444k53gh0r9h53migiiacuda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.all4it.landbank",
+            "certificate_hash": "a4e268224e50454840998dec2b2af1a84c5921b5"
+          }
+        },
+        {
+          "client_id": "1072640496375-emnrk6ksqtchrtm86sige82ad6u1ubiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Hg-SVR779k6i3KuoXfEVjoZCNJ_qio8"
+          //"current_key": "AIzaSyDnGg9qWnkdEXZfOkhnqmHaLSsG3-ZY-jI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072640496375-emnrk6ksqtchrtm86sige82ad6u1ubiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
