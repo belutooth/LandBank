@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_google_places/flutter_google_places.dart';
 import 'package:google_maps_webservice/places.dart';
 
-const kGoogleApiKey = "AIzaSyAff5oMqOhSw8da9Dl6i9OGpkuIkp3L7L4";
+const kGoogleApiKey = "";
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
 final searchScaffoldKey = GlobalKey<ScaffoldState>();
