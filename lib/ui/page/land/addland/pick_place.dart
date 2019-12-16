@@ -7,7 +7,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:geocoder/geocoder.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-const kGoogleApiKey = "AIzaSyAff5oMqOhSw8da9Dl6i9OGpkuIkp3L7L4";
+const kGoogleApiKey = "";
 
 class GoogleGeocoding implements Geocoding {
 
